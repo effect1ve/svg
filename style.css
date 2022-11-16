@@ -1,0 +1,15 @@
+.rotate_1 {
+	transform: rotateZ(-30deg);
+}
+
+.rotate_2 {
+	transform: rotateZ(30deg);
+}
+
+.rotate_3 {
+	transform: rotateZ(-40deg);
+}
+
+.rotate_4 {
+	transform: rotateZ(40deg);
+}
